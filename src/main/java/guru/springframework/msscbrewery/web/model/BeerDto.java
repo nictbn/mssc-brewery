@@ -10,9 +10,6 @@ import javax.validation.constraints.Null;
 import javax.validation.constraints.Positive;
 import java.util.UUID;
 
-/**
- * Created by jt on 2019-04-20.
- */
 @Data
 @NoArgsConstructor
 @AllArgsConstructor
